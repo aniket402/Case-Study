@@ -1,6 +1,6 @@
 # Case Study on Indian Startups
 
-Detailed analysis of the Indian Startups for interpretation of trends and patterns to facilitate selection of proper city, useful investors, funding type etc for different startups. The dataset has funding information of the Indian startups from January 2015 to August 2017.
+Detailed analysis of the Indian Startups for interpretation of trends and patterns to facilitate selection of proper city, useful investors, funding type etc for different startups.
 
 ### Tools and Techniques used
 
