@@ -1,6 +1,10 @@
 # Case-Study
 The dataset has funding information of the Indian startups from January 2015 to August 2017.
 
+### Tools and Techniques Used
+
+Python Libraries (Numpy, Pandas, Matplotlib) used for EDA, Pre-processing and Visualizations. 
+
 ## PART 1 
 ### Problem Statememts
 
